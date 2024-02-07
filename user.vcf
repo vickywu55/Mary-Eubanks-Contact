@@ -1,13 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Eubanks;Marh;;;
+N:Eubanks;Mary;;;
 FN: Mary Eubanks 
 ORG:CENTURY 21 Judge Fite;
-TITLE:REALTOR, Midlothian Specialist
+TITLE:REALTOR
 EMAIL;type=INTERNET;type=WORK;type=pref:maryeubanks@judgefite.com
 TEL;type=WORK;type=VOICE:+1 740 360 7975
-item1.ADR;type=WORK;type=pref:;;Midlothian, TX
 item1.X-ABADR:sg
 item2.URL;https://www.realtor.com/realestateagents/56d66035f384a201005f5704
 item2.X-ABLabel:_$!<HomePage>!$_
