@@ -31,7 +31,10 @@ img {
     width: auto;
     object-fit: contain;
 }
-
+.icon {
+	max-height: 25px;
+	max-width: 25px;
+}
 img.profile-pic {
 	height: 30%;
 	width: 30%;
