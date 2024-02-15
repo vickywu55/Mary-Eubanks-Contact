@@ -10,4 +10,6 @@ TEL;type=WORK;type=VOICE:+1 740 360 7975
 item1.X-ABADR:sg
 item2.URL;https://www.realtor.com/realestateagents/56d66035f384a201005f5704
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:https://www.facebook.com/mary.swartzeubanks
+item3.X-ABLabel:Facebook
 END:VCARD
