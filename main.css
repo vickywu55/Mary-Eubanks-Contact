@@ -182,8 +182,9 @@ img.profile-pic {
 	color: white;
 	font-weight: 600;
 }
-.icon svg {
-    fill: royalblue !important;
+.icon,
+img[src$=".svg"] {
+    filter: invert(11%) sepia(100%) saturate(6000%) hue-rotate(225deg) brightness(95%) contrast(85%);
 }
 
 @media screen and (max-width: 600px) {
