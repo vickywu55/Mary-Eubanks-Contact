@@ -171,7 +171,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: royalblue;
+	background-color: #0054A4;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -184,7 +184,7 @@ img.profile-pic {
 }
 .icon,
 img[src$=".svg"] {
-    filter: invert(11%) sepia(100%) saturate(6000%) hue-rotate(225deg) brightness(95%) contrast(85%);
+    filter: invert(17%) sepia(89%) saturate(2400%) hue-rotate(200deg) brightness(90%) contrast(100%);
 }
 
 @media screen and (max-width: 600px) {
