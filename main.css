@@ -184,7 +184,7 @@ img.profile-pic {
 }
 .icon,
 img[src$=".svg"] {
-    filter: invert(9%) sepia(93%) saturate(7468%) hue-rotate(0deg) brightness(100%) contrast(102%);
+    filter: invert(13%) sepia(100%) saturate(7450%) hue-rotate(1deg) brightness(100%) contrast(104%);
 }
 
 @media screen and (max-width: 600px) {
