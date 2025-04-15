@@ -148,14 +148,14 @@ img.profile-pic {
 .text-name {
     font-family: 'Arial', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: black;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Arial', sans-serif;
     font-weight: 200;
-    color: #333333;
+    color: black;
     font-size: 12px;
 }
 
